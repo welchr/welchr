@@ -5,7 +5,9 @@ I am currently a bioinformatician and software developer at the [Center for Stat
 
 # Projects
 
-## Active
+## Maintainer
+
+Projects on which I am currently a maintainer:
 
 [**LDServer**](https://github.com/statgen/LDServer). Serves linkage disequilibrium (LD) data over a REST API. Used to calculate LD on-the-fly for the new interactive [LocusZoom.js] viewer, and score statistics/covariance matrices for use with [raremetal.js].
 
@@ -13,11 +15,23 @@ I am currently a bioinformatician and software developer at the [Center for Stat
 
 [**LocusZoom API**](https://github.com/statgen/locuszoom-api). Backend REST API service for [LocusZoom.js]. Serves information on genes, recombination rates, EBI GWAS catalog variants, genomic interval annotations, dbSNP metadata, and more.
 
-## Maintenance only
+## Contributor
+
+I have contributed (or at least, attempted to contribute) to a few other open source projects:
+
+[**APEX**](https://github.com/corbinq/apex) → [PR#13](https://github.com/corbinq/apex/pull/13)
+
+[**RAREMETAL**](https://github.com/statgen/RAREMETAL) → [PR#30](https://github.com/statgen/raremetal/pull/30)
+
+[**emeraLD**](https://github.com/statgen/emeraLD) → [PR#6](https://github.com/statgen/emeraLD/pull/6)
+
+[**cget**](https://github.com/pfultz2/cget) → [PR#98](https://github.com/pfultz2/cget/pull/98)
+
+## Archived
+
+Projects no longer under development:
 
 [**swiss**](https://github.com/statgen/swiss). Software to find overlaps between significant GWAS association results and a GWAS catalog of known genetic associations using LD or genomic distance.
-
-## Unsupported
 
 [**locuszoom-standalone**](https://github.com/statgen/locuszoom-standalone). Command line version of the original [LocusZoom](https://genome.sph.umich.edu/wiki/LocusZoom_Standalone) (circa 2010). This has been deprecated in favor of the new interactive [LocusZoom.js]. Please try it out on the new [LocusZoom website](https://my.locuszoom.org/).
 
