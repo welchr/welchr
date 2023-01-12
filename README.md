@@ -19,7 +19,7 @@ Projects on which I am currently a maintainer:
 
 I have contributed (or at least, attempted to contribute) to a few other open source projects:
 
-[**APEX**](https://github.com/corbinq/apex) → [PR#13](https://github.com/corbinq/apex/pull/13)
+[**APEX**](https://github.com/lin-lab/apex) → [PR#1](https://github.com/lin-lab/apex/pull/1)
 
 [**RAREMETAL**](https://github.com/statgen/RAREMETAL) → [PR#30](https://github.com/statgen/raremetal/pull/30)
 
