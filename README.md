@@ -56,7 +56,7 @@ Projects to which I have made a contribution (or at least, attempted to make one
   </tr>
   <tr>
     <td nowrap><a href="https://github.com/statgen/RAREMETAL">RAREMETAL</a></td>
-    <td nowrap><a href="https://github.com/lin-lab/apex/commits?author=welchr">Commits</a> • <a href="https://github.com/lin-lab/apex/pulls?q=is%3Apr+author%3Awelchr+">PRs</a></td>
+    <td nowrap><a href="https://github.com/statgen/RAREMETAL/commits?author=welchr">Commits</a> • <a href="https://github.com/statgen/RAREMETAL/pulls?q=is%3Apr+author%3Awelchr+">PRs</a></td>
     <td>Meta-analysis of rare variant burden tests; sharing of summary statistics and covariance matrices.</td>
   </tr>
   <tr>
